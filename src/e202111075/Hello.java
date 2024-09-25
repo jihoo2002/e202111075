@@ -2,7 +2,7 @@ package e202111075;
 
 public class Hello {
 
-	public static void main(String[] args) {
+	public static void run() {
 		System.out.println("hello world");
 
 	}
